@@ -1,0 +1,4 @@
+baseURL = 'https://openahmed.com/'
+languageCode = 'en-us'
+title = 'OpenAhmed'
+theme = "paper"
