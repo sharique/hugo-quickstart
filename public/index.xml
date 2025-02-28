@@ -6,7 +6,14 @@
     <description>Recent content on OpenAhmed</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Fri, 28 Feb 2025 10:26:44 +0100</lastBuildDate>
     <atom:link href="https://openahmed.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Blog</title>
+      <link>https://openahmed.com/blog/first-blog/</link>
+      <pubDate>Fri, 28 Feb 2025 10:26:44 +0100</pubDate>
+      <guid>https://openahmed.com/blog/first-blog/</guid>
+      <description>&lt;h2 id=&#34;welcome-to-openahmed&#34;&gt;Welcome to OpenAhmed&lt;/h2&gt;&#xA;&lt;h3 id=&#34;something-amazing-is-coming-soon&#34;&gt;Something amazing is coming soon.&lt;/h3&gt;</description>
+    </item>
   </channel>
 </rss>
